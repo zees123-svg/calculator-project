@@ -1,6 +1,6 @@
 📝 Calculator Project
 
-**Calculator** is a modern, front-end project designed for the users to play it by simply clicking on the input box.
+**Calculator** is a modern, front-end project designed for the users to calculate it by simply clicking on the boxes.
 
 🛠️ Built With
 
